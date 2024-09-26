@@ -25,3 +25,14 @@ If the change is committed, then the user is redirected back to the travel journ
 
 Any entry can also be deleted by clicking that entry's delete button.
 ![image](https://github.com/user-attachments/assets/b8e79ae7-027b-4336-af5e-ee0b98a9161d)
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+- Node.js
+- Express
+- MongoDB
+- Mongoose
+- REST API
+- React
